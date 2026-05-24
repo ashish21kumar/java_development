@@ -1,4 +1,4 @@
-package org.pavish;
+package org.pavish.encapsulation;
 
 public class Car {
     private String color;
